@@ -1,5 +1,5 @@
 package j.gameThree;
-
+//write the logic to find the greatest number in the given array
 public class questionTwo {
     public static int greatestNum(int nums[]){
         int maxNum = ;
