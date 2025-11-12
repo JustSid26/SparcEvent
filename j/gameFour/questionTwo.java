@@ -1,5 +1,5 @@
 package j.gameFour;
-
+//count the number of target elements in the given array
 public class questionTwo {
     public static int frequencyTarget(int target, int nums[]){
         int count = ;

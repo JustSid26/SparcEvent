@@ -1,5 +1,5 @@
 package j.gameFive;
-
+//check if the number is positive or negative
 public class questionOne {
     static boolean checkPositive(int num){
         if(num >= 0){

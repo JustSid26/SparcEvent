@@ -24,6 +24,6 @@ Explanation: F(4) = F(3) + F(2) = 2 + 1 = 3.
 
 '''
 def fib(n):
-    
+    #code here
 n = 10
-print(n)
+print(fib(n))

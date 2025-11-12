@@ -1,5 +1,5 @@
 package j.gameFour;
-
+// add two numbers and return them
 public class questionOne {
     int add(int a, b){
         a+b;
